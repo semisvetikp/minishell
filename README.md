@@ -29,4 +29,10 @@ In this project we create a own simple shell (like bash or zsh).
 
 ◦ ctrl-\
 
+<b> Else (the main): </b>
 
+• Redirections < > “>>”
+
+• Pipes | , except for multiline commands
+
+• Keys up and down arrows to navigate through the command using termcap (mandatory)
