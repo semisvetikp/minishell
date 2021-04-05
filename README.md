@@ -1,5 +1,5 @@
 # minishell
-As beautiful as a shell
+<i>As beautiful as a shell</i>
 
 In this project we create a own simple shell (like bash or zsh).
 
