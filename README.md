@@ -36,3 +36,6 @@ In this project we create a own simple shell (like bash or zsh).
 • Pipes | , except for multiline commands
 
 • Keys up and down arrows to navigate through the command using termcap (mandatory)
+
+
+P.S This project was done in collaboration with https://github.com/dmarget
